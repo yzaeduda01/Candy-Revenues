@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(255, 231, 224);
+}
+h1{
+    color: rgb(62, 46, 46);
+    font-size: 100px;
+}
+h2{
+    color: rgb(62, 46, 46);
+    font-size: 50px;
+}
+img{
+    width: 500px;
+    height: 450px;
+}
+h3{
+    font-size: 25px;
+    color: rgb(62, 46, 46);
+}
